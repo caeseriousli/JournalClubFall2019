@@ -9,7 +9,8 @@ Name          | Topic                                         | Quarter Week  | 
 ------------- | --------------------------------------------- | ------------- | -------------
 Prof. Zhe Fei | High-dimensional Fine-Gray competing risks    | 3             | Oct. 17, 2019
 Rui           | TBA                                           | 4             | Oct. 24, 2019
-Shanpeng Li   | TBA                                           | 4             | Oct. 24, 2019
+Shanpeng Li   | TBA                                           | 5             | Oct. 31, 2019
+Caesar Li     | Model Averaging                               | 6             | Nov. 7,  2019
 
 * Please contact Jiyoon Kim (jiyoonkim@mednet.ucla.edu) or Caesar (lizexuan@g.ucla.edu) to update your schedule entry, to inclue:
   + Tentative topics
